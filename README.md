@@ -16,3 +16,5 @@ need an active internet connection to start creating or editing your favorite pr
 # What Platforms can this work on?
 Right now the only supported platform is Windows unfortunately.
 We will add support to Android and MacOS in the near future.
+
+[1]: https://github.com/AlexDev404/TurboWarp-Desktop/releases/
