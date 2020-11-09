@@ -1,7 +1,7 @@
 # TurboWarp-Desktop
 > Forked, Compiled from github.com/turbowarp/scratch-gui and then published
 
-> _Note: If you are having problems closing the application, make sure you have pressed the "Unsaved Changes" button_
+> _Note: If you are having problems closing the application, make sure you have pressed the **"Unsaved Changes"** button_
 
 The Speedy TurboWarp Scratch Mod as a Desktop Application Wrapped in [Electron][2] using [Nativefier][3]
 
