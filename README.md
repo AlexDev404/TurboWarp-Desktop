@@ -12,7 +12,7 @@ Just download and install to start creating!
 
 Go over to [Releases][1] and click the installer to download.
 
-# What is the difference?
+# What's the Difference?
 
 TurboWarp Desktop is the same as turbowarp.org except this time you can work offline and do not 
 need an active internet connection to start creating or editing your favorite projects.
