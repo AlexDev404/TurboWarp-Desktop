@@ -1,7 +1,7 @@
 # TurboWarp-Desktop
-> Forked, Compiled and then published from github.com/turbowarp/scratch-gui
+> Forked, Compiled from github.com/turbowarp/scratch-gui and then published
 
-The Speedy TurboWarp Scratch Mod as a Desktop Application Wrapped in Electron
+The Speedy TurboWarp Scratch Mod as a Desktop Application Wrapped in [Electron][2] using [Nativefier][3]
 
 Ever wanted TurboWarp as a Desktop app just like how MIT's Scratch has their own. Well now TurboWarp Desktop is here.
 Just download and install to start creating
@@ -20,4 +20,6 @@ need an active internet connection to start creating or editing your favorite pr
 Right now the only supported platform is Windows unfortunately.
 We will add support to Android and MacOS in the near future.
 
-[1]: https://github.com/AlexDev404/TurboWarp-Desktop/releases/
+[1]: http://github.com/AlexDev404/TurboWarp-Desktop/releases/
+[2]: http://electronjs.org
+[3]: http://github.com/jiahaog/nativefier
